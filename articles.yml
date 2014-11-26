@@ -1,0 +1,8 @@
+
+- id: myplace-post
+  title: 我的地盘我做主 
+  postedOn: !!str 2014-11-25
+  author: twobin
+  tags: 
+    - 坐下聊聊
+  abstract: 风雨历程，人生无常，世事难料！这句话出自一个涉世未深的小年轻口中虽然有几分不妥，但回首这二十几年一路兼程，不由发出此叹。

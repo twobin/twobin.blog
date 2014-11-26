@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="description" content="<%= site.meta.description %>"/>
+        <meta name="keywords" content="<%= site.meta.keywords %>"/>
+        <meta name="author" content="<%= site.meta.author %>"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+        <title><%= site.title %> - <% include subtitle %></title>
+        <link rel="stylesheet" href="/assets/vendor/normalize.css"/>
+        <link rel="stylesheet" href="/assets/vendor/google-code-prettify/prettify-solarized-dark.css"/>
+        <link rel="stylesheet" href="/assets/themes/<%= site.theme %>/main.css"/>
+        <link rel="shortcut icon" href="/fav.ico"/>
+        <script type="text/javascript" src="/assets/vendor/google-code-prettify/prettify.js"></script>
+        <script type="text/javascript" src="/assets/vendor/jquery-1.9.1.js"></script>
+        <script type="text/javascript" src="/assets/vendor/jqueryScrollUp.js"></script>
+        <% include header_plugin %>
+    </head>
+    <body onload="prettyPrint()">
+    <div id="header">
+        <div id="header-inner">
+            <a id="aImg">
+                <img id="twobinImg" width="30" height="30" alt="" src="http://images.cnblogs.com/cnblogs_com/twobin/520730/t_twobin02.png">
+            </a>
+            <div id="title"><a href="/"><%= site.title %></a></div>
+            <!-- <div id="subtitle"><%= site.subtitle %></div> -->
+            <div id="topnav">
+                <ul>
+                    <li><a href="/">首页</a></li>
+                    <li class="sep"> | </li>
+                    <li><a href="/tag.html">标签</a></li>
+                    <% include navbar %>
+                </ul>
+                <div style="clear:both;"></div>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,7 @@
+index.ejs
+coreTags.forEach(function (tag))
+其中，coreTags只显示标签书>2的标签名称；
+
+tag.ejs
+tags.forEach(function (tag))
+其中，tags显示全部标签名称。

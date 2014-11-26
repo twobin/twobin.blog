@@ -1,0 +1,30 @@
+title: twobin'blog
+subtitle: 爱生活，爱分享，爱前端
+link: http://twobin.github.io/
+meta:
+  description: 爱生活，爱分享，爱前端
+  keywords: !!seq
+    - 前端
+    - javascript
+    - css
+    - html
+    - jquery
+    - nodejs
+    - twobin
+  author: twobin
+master:
+  name: twobin
+  about: Alibaba Front-end Engineer（codemonkey <span style="color:#999;">/koʊdˈmʌŋki/</span>），<a href="/pages/about-me.html">更多...</a>
+  email: twobin@live.com
+  weibo: twobin
+rss:
+  title: twobin
+  desc: 爱生活，爱分享，爱前端
+  lang: zh-cn
+  max: 10
+copyright:
+  owner: twobin
+  beginYear: 2013
+  endYear: 2014
+theme: default
+
