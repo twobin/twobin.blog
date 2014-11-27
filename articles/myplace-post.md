@@ -106,7 +106,4 @@
 
 我是双子座！
 
-效果展示
-===========
 
-<p><iframe src="http://jsfiddle.net/twobin/SUt7X/12/embedded/result,js,html,css/" frameborder="0" width="100%" height="500"></iframe></p>
