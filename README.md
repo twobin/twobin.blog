@@ -1,4 +1,4 @@
-twobin'blog. [http://twobin.github.io](http://twobin.github.io)
+twobin'blog 爱生活，爱分享，爱前端 [http://twobin.github.io](http://twobin.github.io)
 
 简介
 ======
@@ -7,7 +7,7 @@ node.js后台服务，ejs前端模板；
 
 全结构化文本模式(yaml + markdown)发布文章及页面；
 
-全静态网站，不使用数据库存储！
+全静态博客，不使用数据库存储。
 
 流程
 ======
