@@ -3,11 +3,13 @@ twobin'blog 爱生活，爱分享，爱前端 [http://twobin.github.io](http://t
 简介
 ======
 
-node.js后台服务，ejs前端模板；
+node.js 后台服务；
 
-全结构化文本模式(yaml + markdown)发布文章及页面；
+ejs 前端模板；
 
-全静态博客，不使用数据库存储。
+markdown 发布文章；
+
+全静态博客。
 
 流程
 ======
