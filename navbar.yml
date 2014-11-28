@@ -6,10 +6,10 @@
   href: /rss.xml
   target: _self
 
-- label: 微博
-  href: http://weibo.com/twobins
-  target: _blank
+# - label: 微博
+#   href: http://weibo.com/twobins
+#   target: _blank
 
-- label: github
-  href: http://github.com/twobin
-  target: _blank
+# - label: github
+#   href: http://github.com/twobin
+#   target: _blank
