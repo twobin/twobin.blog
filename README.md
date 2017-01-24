@@ -1,6 +1,4 @@
-twobin'blog
-
-============
+# twobin'blog
 
 > 关注 Js, ES6, React, Redux, Functional 等
 
